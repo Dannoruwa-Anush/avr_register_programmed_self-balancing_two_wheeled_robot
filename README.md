@@ -1,4 +1,8 @@
+# Developed Self-Balancing Robot Prototype
+
 <img width="2520" height="3000" alt="00" src="https://github.com/user-attachments/assets/641977e6-35e3-4b7e-8c18-0b70b18adb87" />
+
+# Sketches
 
 <img width="2100" height="3000" alt="01" src="https://github.com/user-attachments/assets/3341cfe7-320f-4c4a-b954-4b9371591d4e" />
 
